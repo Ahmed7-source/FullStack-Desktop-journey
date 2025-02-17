@@ -1,6 +1,6 @@
-###My road to make desktop applications
-###note : These courses i have learned it from programmingadvices.com (By DR.Mohammed Abu Hadhood)
-###The following courses are my road to learn how to make desktop applications
+### My road to make desktop applications
+### note : These courses i have learned it from programmingadvices.com (By DR.Mohammed Abu Hadhood)
+### The following courses are my road to learn how to make desktop applications
 01. Foundations Level 1
 02. Algorithms Level 1
 03. C++ Level 1 (FUNCTIONAL PROGRAMMING)
@@ -25,11 +25,11 @@
 22. Data Structures Level 2
 23. Algorithms Level 6
 24. Windows Services
-###What I Have Done From Them Currently Is:
+### What I Have Done From Them Currently Is:
 01. Foundations Level 1
 02. Algorithms Level 1
 03. C++ Level 1 (FUNCTIONAL PROGRAMMING)
 04. Advanced Solutions for algorithms level 1
 05. Algorithms Level 2
-###And Now Iam Working On:
+### And Now Iam Working On:
 C++ Level 2 (FUNCTIONAL PROGRAMMING)
