@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\Homework 2 lesson 19 Course 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BB4A8C-E422-4433-BCB4-C9F2D9631551}|Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.vcxproj|C:\\Users\\ahmed\\source\\repos\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21BB4A8C-E422-4433-BCB4-C9F2D9631551}|Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.vcxproj|solutionrelative:Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework 2 lesson 19 Course 6.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp",
+              "RelativeDocumentMoniker": "Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp",
+              "RelativeToolTip": "Homework 2 lesson 19 Course 6\\Homework 2 lesson 19 Course 6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T17:24:37.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

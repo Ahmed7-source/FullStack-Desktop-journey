@@ -1,0 +1,5 @@
+﻿  Things I took from Lesson 14 to 19.cpp
+C:\Users\ahmed\source\repos\Things I took from Lesson 14 to 19\Things I took from Lesson 14 to 19\Things I took from Lesson 14 to 19.cpp(23,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\ahmed\source\repos\Things I took from Lesson 14 to 19\Things I took from Lesson 14 to 19\Things I took from Lesson 14 to 19.cpp(8,5):
+      see previous definition of 'main'
+  
