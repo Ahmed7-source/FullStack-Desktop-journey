@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\Things I took from Lesson 50 to 51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FFBED9-720E-4F44-9A48-CC3CC1FCC9D9}|Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.vcxproj|C:\\Users\\ahmed\\source\\repos\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FFBED9-720E-4F44-9A48-CC3CC1FCC9D9}|Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.vcxproj|solutionrelative:Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Things I took from Lesson 50 to 51.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp",
+              "RelativeDocumentMoniker": "Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp",
+              "RelativeToolTip": "Things I took from Lesson 50 to 51\\Things I took from Lesson 50 to 51.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T21:25:39.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
