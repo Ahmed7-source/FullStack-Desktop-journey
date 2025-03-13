@@ -1,0 +1,21 @@
+﻿  Things I took from Lesson 52 to 58.cpp
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(24,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(7,5):
+      see previous definition of 'main'
+  
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(128,6): error C2084: function 'void LoadDataFromFileToVector(std::string,std::vector<std::string,std::allocator<std::string>> &)' already has a body
+      C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(66,6):
+      see previous definition of 'LoadDataFromFileToVector'
+  
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(143,6): error C2084: function 'void SaveVectorToFile(std::string,std::vector<std::string,std::allocator<std::string>>)' already has a body
+      C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(97,6):
+      see previous definition of 'SaveVectorToFile'
+  
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(163,2): error C2264: 'LoadDataFromFileToVector': error in function definition or declaration; function not called
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(171,2): error C2264: 'SaveVectorToFile': error in function definition or declaration; function not called
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(238,2): error C2264: 'LoadDataFromFileToVector': error in function definition or declaration; function not called
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(246,2): error C2264: 'SaveVectorToFile': error in function definition or declaration; function not called
+C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(248,6): error C2084: function 'void PrintFileContent(std::string)' already has a body
+      C:\Users\ahmed\source\repos\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58\Things I took from Lesson 52 to 58.cpp(173,6):
+      see previous definition of 'PrintFileContent'
+  
