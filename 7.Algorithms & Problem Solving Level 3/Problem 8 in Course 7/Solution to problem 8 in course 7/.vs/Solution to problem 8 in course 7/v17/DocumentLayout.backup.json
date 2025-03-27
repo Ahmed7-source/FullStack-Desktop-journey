@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\Solution to problem 8 in course 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87C08D8-0455-467C-A488-3D3BAA9A9B9E}|Solution to problem 8 in course 7\\Solution to problem 8 in course 7.vcxproj|C:\\Users\\ahmed\\source\\repos\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D87C08D8-0455-467C-A488-3D3BAA9A9B9E}|Solution to problem 8 in course 7\\Solution to problem 8 in course 7.vcxproj|solutionrelative:Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution to problem 8 in course 7.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp",
+              "RelativeDocumentMoniker": "Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp",
+              "RelativeToolTip": "Solution to problem 8 in course 7\\Solution to problem 8 in course 7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T22:04:00.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
