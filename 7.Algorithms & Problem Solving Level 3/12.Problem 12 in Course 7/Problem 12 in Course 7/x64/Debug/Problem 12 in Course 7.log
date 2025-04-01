@@ -1,0 +1,3 @@
+﻿  Problem 12 in Course 7.cpp
+C:\Users\ahmed\source\repos\Problem 12 in Course 7\Problem 12 in Course 7\Problem 12 in Course 7.cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problem 12 in Course 7.vcxproj -> C:\Users\ahmed\source\repos\Problem 12 in Course 7\x64\Debug\Problem 12 in Course 7.exe
