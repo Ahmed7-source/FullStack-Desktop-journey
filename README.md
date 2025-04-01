@@ -1,6 +1,5 @@
 ### My road to make desktop applications
-### note : These courses i have learned it from programmingadvices.com (By DR.Mohammed Abu Hadhood)
-## More information about the course ⬇️
+## Information about the course ⬇️
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * **YouTube Channel:** [Programming Advices](https://www.youtube.com/@ProgrammingAdvices)
