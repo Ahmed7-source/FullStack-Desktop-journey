@@ -3,6 +3,7 @@
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * **YouTube Channel:** [Programming Advices](https://www.youtube.com/@ProgrammingAdvices)
+* Each volume contains my solutions and programming samples. This repository is constantly updated as I progress through the courses.
 ## Information about me ⬇️
 * Name : Ahmed Alaa
 * age  : 14
