@@ -5,9 +5,9 @@
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * **YouTube Channel:** [Programming Advices](https://www.youtube.com/@ProgrammingAdvices)
 ## Information about me ⬇️
-* **Name : Ahmed Alaa
-* **age  : 14
-* **My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
+* Name : Ahmed Alaa
+* age  : 14
+* My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
 * My programming certificates : [My Certifications Folder](./0.%20My%20Certifications)
 ### The following courses are my road to learn how to make desktop applications
 01. Foundations Level 1
