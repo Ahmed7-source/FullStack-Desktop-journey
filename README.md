@@ -3,6 +3,9 @@
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * **YouTube Channel:** [Programming Advices](https://www.youtube.com/@ProgrammingAdvices)
+## Roadmap to learning programming ⬇️
+![خارطة الطريق لتعلم البرمجة](https://github.com/user-attachments/assets/d30e2a41-2704-4d5d-a143-956c6b5670c3)
+
 ## Information about the Repository ⬇️
 * Each volume contains my solutions and programming samples. This repository is constantly updated as I progress through the courses.
 ## Information about me ⬇️
@@ -12,7 +15,6 @@
 * My programming certificates : [My Certifications Folder](./0.%20My%20Certifications)
 * Email : ahmed23156p@gmail.com <br>
 * Whatsapp : [+971557178300](https://wa.me/971557178300)
-
 ### The following courses are my road to learn how to make desktop applications
 01. Foundations Level 1
 02. Algorithms Level 1
@@ -46,11 +48,3 @@
 05. Algorithms Level 2
 ### And Now Iam Working On:
 C++ Level 2 (FUNCTIONAL PROGRAMMING)
-
-
-
-
-![مخطط للبرمجة](https://github.com/user-attachments/assets/47facb3c-e6c7-4b59-9693-04f49e6e3a6b)
-
-
-
