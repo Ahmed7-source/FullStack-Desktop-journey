@@ -46,3 +46,4 @@
 05. Algorithms Level 2
 ### And Now Iam Working On:
 C++ Level 2 (FUNCTIONAL PROGRAMMING)
+![Screenshot 2025-04-02 015947](https://github.com/user-attachments/assets/126a05b1-06fb-4a92-8e3f-b016a7f0032e)
