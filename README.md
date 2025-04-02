@@ -12,7 +12,7 @@
 * Name : Ahmed Alaa
 * age  : 14
 * My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
-* My programming certificates : [My Certifications Folder](https://github.com/Ahmed7-source/My-project/tree/main/0.My%20programming%20certificates)
+* My programming certificates : [My Certifications Folder](./0.My%20programming%20certificates)
 * Email : ahmed23156p@gmail.com <br>
 * Whatsapp : [+971557178300](https://wa.me/971557178300)
 ### The following courses are my road to learn how to make desktop applications
