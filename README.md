@@ -17,4 +17,5 @@
 * Email : ahmed23156p@gmail.com <br>
 * Whatsapp : [+971557178300](https://wa.me/971557178300)
 ### The following courses are my road to learn how to make desktop applications
-	| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+| Tables | Are | Cool | |----------|:-------------:|------:| |
+ col 1 is| left-aligned | $1600 |
