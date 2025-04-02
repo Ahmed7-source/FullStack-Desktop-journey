@@ -45,3 +45,5 @@
 | 23 | Algorithms Level 6                                                                                                      | ❌ Not Started                                                                                                     | $20 | ✅ Finished          |
 | 24 | Windows Services                                                                                                         | ❌ Not Started                                                                                                     | $20 | ✅ Finished          |
 * Note: Dr. Mohammed Abu-Hadhoud has created discount codes for the courses. You'll receive discounts of 25%, 50%, 75%, and 100%. He created these codes for those who cannot afford to pay the full course fees and to ensure they have no excuse to learn programming.
+* For more information and to know what the symbols are, watch this video ⬇️
+* **YouTube :** [Discount codes]([https://www.youtube.com/@ProgrammingAdvices](https://youtu.be/6lcNi5Y6ruk?si=OvNP9OM0Ih8HJCH7))
