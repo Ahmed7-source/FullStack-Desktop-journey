@@ -14,6 +14,7 @@
 * Name : Ahmed Alaa
 * age  : 14
 * My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
+* <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="22" style="vertical-align: middle;"> My programming certificates : [**My Certifications Folder**](./0.My%20programming%20certificates)
 * My programming certificates : [My Certifications Folder](./0.My%20programming%20certificates)
 * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
 * <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="23" style="vertical-align:middle"> WhatsApp : [**+971557178300**](https://wa.me/971557178300)
@@ -65,4 +66,3 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 * Note: Dr. Mohammed Abu-Hadhoud has created discount codes for the courses. You'll receive discounts of 25%, 50%, 75%, and 100%. He created these codes for those who cannot afford to pay the full course fees and to ensure they have no excuse to learn programming.
 * For more information and to know what the symbols are, watch this video ⬇️
 * <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="21" style="vertical-align:middle"> YouTube: [**Discount codes**](https://www.youtube.com/watch?v=6lcNi5Y6ruk)
-* <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="22" style="vertical-align: middle;"> **مطور برامج محترف**
