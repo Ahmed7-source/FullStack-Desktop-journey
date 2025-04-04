@@ -18,7 +18,9 @@
 * Email : ahmed23156p@gmail.com <br>
 * Whatsapp : [+971557178300](https://wa.me/971557178300)
 ## My projects ⬇️
-* Project 1: (C++ Login Data Entry Program) The program is available in Arabic and English, and I will add other languages ​​as I progress. The project name suggests that the idea is to add your personal information, such as your name, surname, date of birth, gender, email address, password, phone number, and more. I will continue to develop and add more features to the program as I progress through the courses.
+* Project 1: (C++ Login Data Entry Program) The program is available in Arabic and English, and I will add other languages ​​as I progress. The project name suggests that the idea is to add your personal information, such as your name, surname, date of birth, gender,
+email address, password, phone number, and more. I will continue to develop and add more features to the program as I progress through the courses.
+
 * An explanatory video on how to use the program in Arabic and English ⬇️
 
 https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
