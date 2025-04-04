@@ -23,12 +23,8 @@
 
 
 https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
-
-
-
-
-
 * Project 2: (Life App) The program is available in Arabic and English, and I will add other languages ​​as I progress. I haven’t started the project yet, I will start soon, but the idea of ​​the project is to do things like an exercise system with 3 days a week and 4, 5, and 6 days of exercise, and there are methods for making drinks, and the food will include vegetarian food, regular food (meat, chicken, etc.), and healthy food Also, prayer times for the UAE and Egypt. As I progress, I'll try to add prayer times for all Islamic countries. I'll also add games for phones and computers. There are free games and games for real money. I'll also mention download sites, and the sites I'll include will be safe and virus-free. Please note that the games are ready-made, not mine I will continue to develop and add more features to the program as I progress through the courses.
+* I will add a video demonstrating how to use the program soon when I start programming the program.
 * When I am 100% finished with both projects, and also when I am finished with all the courses, I will combine Project 1 with Project 2 to create a complete and integrated program developed by me.
 
 * If you have any suggestions or new features I can add to the projects or any comments you can send them via (email - Telegram) ⬇️
