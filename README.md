@@ -20,6 +20,10 @@
 ## My projects ⬇️
 * Project 1: (C++ Login Data Entry Program) The program is available in Arabic and English, and I will add other languages ​​as I progress. The project name suggests that the idea is to add your personal information, such as your name, surname, date of birth, gender, email address, password, phone number, and more. I will continue to develop and add more features to the program as I progress through the courses.
 
+
+https://github.com/user-attachments/assets/6c19362d-1c56-4b87-8859-8fa5c3a09331
+
+
 * Project 2: (Life App) The program is available in Arabic and English, and I will add other languages ​​as I progress. I haven’t started the project yet, I will start soon, but the idea of ​​the project is to do things like an exercise system with 3 days a week and 4, 5, and 6 days of exercise, and there are methods for making drinks, and the food will include vegetarian food, regular food (meat, chicken, etc.), and healthy food Also, prayer times for the UAE and Egypt. As I progress, I'll try to add prayer times for all Islamic countries. I'll also add games for phones and computers. There are free games and games for real money. I'll also mention download sites, and the sites I'll include will be safe and virus-free. Please note that the games are ready-made, not mine I will continue to develop and add more features to the program as I progress through the courses.
 * When I am 100% finished with both projects, and also when I am finished with all the courses, I will combine Project 1 with Project 2 to create a complete and integrated program developed by me.
 
