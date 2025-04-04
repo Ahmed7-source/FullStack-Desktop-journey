@@ -16,7 +16,7 @@
 * My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
 * My programming certificates : [My Certifications Folder](./0.My%20programming%20certificates)
 * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="21" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="23" style="vertical-align:middle"> WhatsApp : [**+971557178300**](https://wa.me/971557178300)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="24" style="vertical-align:middle"> WhatsApp : [**+971557178300**](https://wa.me/971557178300)
 </span>
 ## My projects ⬇️
 * Project 1: (C++ Login Data Entry Program) The program is available in Arabic and English, and I will add other languages ​​as I progress. The project name suggests that the idea is to add your personal information, such as your name, surname, date of birth, gender,
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 * When I am 100% finished with both projects, and also when I am finished with all the courses, I will combine Project 1 with Project 2 to create a complete and integrated program developed by me.
 
 * If you have any suggestions or new features I can add to the projects or any comments you can send them via (email - Telegram) ⬇️
-* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
+* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="21" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
 * Telegram : [Ahmed Alaa](http://t.me/Ahmed7828)
 
 ### The following courses are my road to learn how to make desktop applications
