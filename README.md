@@ -3,7 +3,7 @@
 * Course language : The entire course is in Arabic. 
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
-* <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="23" style="vertical-align:middle"> YouTube: [**Programming Advices**](https://www.youtube.com/@ProgrammingAdvices)
+* <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="22" style="vertical-align:middle"> YouTube: [**Programming Advices**](https://www.youtube.com/@ProgrammingAdvices)
 * In these courses we will learn the programming languages ​​C++, C#, SQL, data structures, algorithms and problem solving.
 ## Roadmap to learning programming ⬇️
 ![Roadmap to learning programming](https://github.com/user-attachments/assets/d30e2a41-2704-4d5d-a143-956c6b5670c3)
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 
 * If you have any suggestions or new features I can add to the projects or any comments you can send them via (email - Telegram) ⬇️
 * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" style="vertical-align:middle"> Telegram: [**Ahmed Alaa**](http://t.me/Ahmed7828)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" style="vertical-align:middle"> Telegram : [**Ahmed Alaa**](http://t.me/Ahmed7828)
 
 ### The following courses are my road to learn how to make desktop applications
 
