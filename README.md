@@ -25,7 +25,8 @@
 
 * If you have any suggestions or new features I can add to the projects or any comments you can send them via (email - Telegram) ⬇️
 * Email : ahmed23156p@gmail.com <br>
-* ⬇
+* Telegram : [Ahmed Alaa](![image](https://github.com/user-attachments/assets/0525f21c-5a1a-4710-be72-7c2694cbace1)
+
 ### The following courses are my road to learn how to make desktop applications
 
 | #  | Course name                                                                                                | My Progress                                                                                               | Course price       | Instructor's Progress |
