@@ -7,7 +7,7 @@
 * In these courses we will learn the programming languages ​​C++, C#, SQL, data structures, algorithms and problem solving.
 ## Roadmap to learning programming ⬇️
 ![Roadmap to learning programming](https://github.com/user-attachments/assets/d30e2a41-2704-4d5d-a143-956c6b5670c3)
-* **Map explanation:** [Explanatory video](https://youtu.be/LfkBOKwsTc0?si=ErDEjbfudQyXLNzd)
+* <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="21" style="vertical-align:middle"> Map explanation : [**Explanatory video**](https://youtu.be/LfkBOKwsTc0?si=ErDEjbfudQyXLNzd)
 ## Information about the Repository ⬇️
 * Each volume contains my solutions and programming samples. This repository is constantly updated as I progress through the courses.
 ## Information about me ⬇️
