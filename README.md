@@ -16,10 +16,7 @@
 * My passion : I want to be a world-famous programmer and create programs that benefit all of humanity
 * My programming certificates : [My Certifications Folder](./0.My%20programming%20certificates)
 * Email : ahmed23156p@gmail.com <br>
-* <span style="display: inline-flex; align-items: center; gap: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30"> 
-  <span>واتساب:</span> 
-  <a href="https://wa.me/971557178300" style="text-decoration: none;">+971557178300</a>
+* <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="16" style="vertical-align:middle"> [**+971557178300**](https://wa.me/971557178300)
 </span>
 ## My projects ⬇️
 * Project 1: (C++ Login Data Entry Program) The program is available in Arabic and English, and I will add other languages ​​as I progress. The project name suggests that the idea is to add your personal information, such as your name, surname, date of birth, gender,
