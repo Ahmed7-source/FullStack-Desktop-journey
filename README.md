@@ -1,5 +1,6 @@
 ### My path to desktop app creation and back-end development 
 ## Information about the course ⬇️
+* Course language: The entire course is in Arabic.
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * **YouTube Channel:** [Programming Advices](https://www.youtube.com/@ProgrammingAdvices)
