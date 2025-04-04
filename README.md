@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 
 * If you have any suggestions or new features I can add to the projects or any comments you can send them via (email - Telegram) ⬇️
 * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" style="vertical-align:middle"> Email : [**ahmed23156p@gmail.com**](mailto:ahmed23156p@gmail.com)
-* Telegram : [Ahmed Alaa](http://t.me/Ahmed7828)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" style="vertical-align:middle"> Telegram: [**Ahmed Alaa**](https://t.me/Ahmed_Alaa)
 
 ### The following courses are my road to learn how to make desktop applications
 
