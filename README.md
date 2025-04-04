@@ -3,7 +3,7 @@
 * Course language : The entire course is in Arabic. 
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
-* <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="21" style="vertical-align:middle"> YouTube: [**Programming Advices**](https://www.youtube.com/@ProgrammingAdvices)
+* <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="20" style="vertical-align:middle"> YouTube: [**Programming Advices**](https://www.youtube.com/@ProgrammingAdvices)
 * In these courses we will learn the programming languages ​​C++, C#, SQL, data structures, algorithms and problem solving.
 ## Roadmap to learning programming ⬇️
 ![Roadmap to learning programming](https://github.com/user-attachments/assets/d30e2a41-2704-4d5d-a143-956c6b5670c3)
