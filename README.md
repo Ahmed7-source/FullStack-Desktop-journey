@@ -1,6 +1,7 @@
 ### My path to desktop app creation and back-end development 
 ## Information about the course ⬇️
-* Course language : The entire course is in Arabic. 
+* Course language : The entire course is in Arabic.
+* <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" style="vertical-align:middle"> LinkedIn : [**Dr. Mohammed Abu Hadhoud**](https://www.linkedin.com/in/abuhadhoud/)
 * **Instructor & Roadmap Creator:** [Dr. Mohammed Abu Hadhoud](https://www.linkedin.com/in/abuhadhoud/) (LinkedIn)
 * **Learning Website:** [ProgrammingAdvices.com](https://www.programmingadvices.com)
 * <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="21" style="vertical-align:middle"> YouTube: [**Programming Advices**](https://www.youtube.com/@ProgrammingAdvices)
