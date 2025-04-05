@@ -76,7 +76,8 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 
 
 
-* <img src="https://images.app.goo.gl/FbLks9zjP7zNU5Zo9" width="21" style="vertical-align:middle"> YouTube: [**Discount codes**](https://www.youtube.com/watch?v=6lcNi5Y6ruk)
+* <img src="![image](https://github.com/user-attachments/assets/eb253ab0-90e8-4fc1-9611-54a60c87f03e)
+" width="21" style="vertical-align:middle"> YouTube: [**Discount codes**](https://www.youtube.com/watch?v=6lcNi5Y6ruk)
 
 
 
