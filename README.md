@@ -82,5 +82,5 @@ https://github.com/user-attachments/assets/932750a0-6f93-430d-8c50-bc3f5dc560ec
 
 
 
-* <img src="https://cdn-icons-png.flaticon.com/512/10,251/1384060.png" width="21" style="vertical-align:middle"> YouTube: [**Discount codes**](https://www.youtube.com/watch?v=6lcNi5Y6ruk)
+* <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="21" style="vertical-align:middle"> YouTube: [**Discount codes**](https://www.youtube.com/watch?v=6lcNi5Y6ruk)
 
